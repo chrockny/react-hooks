@@ -1,0 +1,8 @@
+.item{
+    display:block;
+    align-items:center;
+    text-align:center;
+}
+.item img {
+    border-radius:20px;
+}
